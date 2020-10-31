@@ -8,7 +8,7 @@
 * [License](#license)
 
 [![Heroku](./public/assets/heroku.png)](https://peaceful-forest-93935.herokuapp.com/)
-[Click here to view the simulation!](hhttps://peaceful-forest-93935.herokuapp.com/)
+[Click here to view the simulation!](https://peaceful-forest-93935.herokuapp.com/)
 
 ## Description ##
 
